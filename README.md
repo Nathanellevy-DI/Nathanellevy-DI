@@ -2,6 +2,8 @@
 Full Stack Web Developer<br>Strong In UI/UX Design<br>Working On Many New Projects !!
 
 [![B](https://di1earning022025prod.s3.amazonaws.com/static/badges/TBL_Badge_Hackathon/badge_picture/best_design.png)](https://nathanellevy-di.github.io/Hackathon2.github.io/)
+<img src="badge-image-url" alt="Badge Alt Text" width="200">
+</a>
 
 
 ## 🌐 Socials:
