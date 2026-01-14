@@ -1,7 +1,7 @@
 # 💫 About Me:
 Full Stack Web Developer<br>Strong In UI/UX Design<br>Working On Many New Projects !!
 
-(file:///Users/nathanellevi/Documents/best_design.png)](https://nathanellevy-di.github.io/Hackathon2.github.io/)
+(https://di1earning022025prod.s3.amazonaws.com/static/badges/TBL_Badge_Hackathon/badge_picture/best_design.png)](https://nathanellevy-di.github.io/Hackathon2.github.io/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathanel_levi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NathanelLevy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanellevi@list.ru) 
